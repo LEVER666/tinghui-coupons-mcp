@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tinghui-coupons": {
+      "type": "http",
+      "url": "https://www.thgrz.cn/mcp"
+    }
+  }
+}
